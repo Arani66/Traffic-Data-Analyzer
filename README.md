@@ -78,7 +78,7 @@ Given a survey date, the application locates the matching CSV file, calculates a
 ```
    traffic_dataDDMMYYYY.csv
 ```
-   For example, for 15 March 2024: `traffic_data15032024.csv`
+   For example, for 21 June 2024: `traffic_data21062024.csv`
 
 4. If the file is found, the app will:
    - Print all traffic metrics to the console
