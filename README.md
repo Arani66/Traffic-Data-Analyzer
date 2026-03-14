@@ -1,5 +1,7 @@
 # Traffic Data Analyzer & Visualizer 🚦
 
+![Traffic Histogram Preview](histogram-preview.png)
+
 A Python-based desktop application that processes traffic junction data from CSV files, calculates key metrics, and generates interactive visual histograms using Tkinter.
 
 ## Features
@@ -26,4 +28,4 @@ Ensure you have Python 3 installed on your machine. Tkinter is included with the
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/Traffic-Data-Analyzer.git](https://github.com/yourusername/Traffic-Data-Analyzer.git)
+   git clone [https://github.com/Arani66/Traffic-Data-Analyzer.git](https://github.com/Arani66/Traffic-Data-Analyzer.git)
